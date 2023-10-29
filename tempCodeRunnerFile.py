@@ -1,0 +1,1 @@
+for method in self.methods:
